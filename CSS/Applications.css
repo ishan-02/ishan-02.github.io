@@ -1,0 +1,36 @@
+#heading-background{
+    background-image: linear-gradient(to right,#2b0080,#350080,#400080,#4b0080,#550080,#600080,#550080,#4b0080,#400080,#350080,#2b0080);
+    margin-top: 50px;
+    color: white
+}
+#content-heading{
+    color:#3A0CA3;
+}
+#heading-content{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.purple{
+    border-radius: 20px;
+    width: 25%;
+    background:#400080;
+    color: white
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+#center{
+    text-align: center;
+}
+#inBox{
+    background-color: #f3f3f3;
+    border-radius: 20px;
+}
+.wtm{
+    margin-top: 75px;
+}
+iframe{
+    border-radius: 20px;
+}

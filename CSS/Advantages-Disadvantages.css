@@ -1,0 +1,23 @@
+body{
+    font-family: 'Inter',sans-serif;
+}
+.background{
+    background-image: url("/Pictures/Pros-Cons/background.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#center{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#table-heading{
+    font-size: 40px;
+    font-weight: 700;
+}
+td{
+    width: 50%;
+}

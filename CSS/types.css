@@ -1,0 +1,36 @@
+.inBox{
+    background-color: #f3f3f3;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.wbm{
+    margin-bottom: 50px
+}
+.wtm{
+    margin-top: 75px;
+}
+#content-heading{
+    color:#3A0CA3;
+    margin-top: 20px;
+}
+#heading-content{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+}
+.purple{
+    border-radius: 20px;
+    width: 25%;
+    background:#400080;
+    color: white;
+    font-size: 18px;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+#center{
+    text-align: center;
+}
